@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
 
     <!--Favicon-->
-    <link rel="shortcut icon" href="{{ asset('frontend/images/favicon.png') }}" title="Favicon" />
+    <link rel="shortcut icon" href="{{ asset('frontend/images/favicon-runjani.png') }}" title="Favicon" />
 
     <!-- Main CSS Files -->
     <link rel="stylesheet" href="{{ asset('frontend/css/style.css') }}">
@@ -78,28 +78,18 @@
                             <!--Social Icons in Header-->
                             <ul class="social-icons">
                                 <li>
-                                    <a target="_blank" title="Facebook" href="https://www.facebook.com/username">
+                                    <a target="_blank" title="Facebook" href="https://www.facebook.com/runjani">
                                         <i class="fa fa-facebook fa-1x"></i><span>Facebook</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a target="_blank" title="Google+" href="http://google.com/+username">
-                                        <i class="fa fa-google-plus fa-1x"></i><span>Google+</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" title="Twitter" href="http://www.twitter.com/username">
+                                    <a target="_blank" title="Twitter" href="http://www.twitter.com/runjani_">
                                         <i class="fa fa-twitter fa-1x"></i><span>Twitter</span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a target="_blank" title="Instagram" href="http://www.instagram.com/username">
+                                    <a target="_blank" title="Instagram" href="http://www.instagram.com/runjani_">
                                         <i class="fa fa-instagram fa-1x"></i><span>Instagram</span>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a target="_blank" title="behance" href="http://www.behance.net">
-                                        <i class="fa fa-behance fa-1x"></i><span>Behance</span>
                                     </a>
                                 </li>
                             </ul>
@@ -148,10 +138,10 @@
                 <div class="col-38">
 
                     <div class="section-heading">
-                        <h1>A FREE AND SIMPLE LANDING PAGE</h1>
-                        <h2>Namari is a free landing page template you can use for your projects. It is free to use for
-                            your
-                            personal and commercial projects, enjoy!</h2>
+                        <h1>DONG AYOK LARI</h1>
+                        <h2>A running community based in Lombok.
+                            We run the road and trail for health and fun. Pick yours!
+                        </h2>
                     </div>
 
                     <!--Call to Action-->
