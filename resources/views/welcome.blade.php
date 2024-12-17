@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 
     <!--Page Title-->
-    <title>Runjani - Dong Ayok Lari</title>
+    <title>RUNJANI - Dong Ayok Lari</title>
 
     <!--Meta Keywords and Description-->
     <meta name="keywords" content="">
@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="{{ asset('frontend/css/font-awesome.min.css') }}">
 
     <!-- Animate CSS-->
-    <link href="css/animate.css" rel="stylesheet" type="text/css">
+    <link href="{{ asset('frontend/css/animate.css') }}" rel="stylesheet" type="text/css">
 
     <!--Google Webfonts-->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
