@@ -124,11 +124,11 @@ a:hover,
 
 /* Banner Background and Text Colors */
 
-/* #banner {
-    background: url("../images/banner-images/banner-image-3.jpg") no-repeat
+#banner {
+    background: url("../images/banner-images/banner-image-2.jpg") no-repeat
         center top;
     background-size: cover;
-} */
+}
 
 /*------------------------------------------------------------------------------------------*/
 /* 5. Typography */

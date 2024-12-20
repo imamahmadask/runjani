@@ -29,12 +29,6 @@
 
     <!--Google Webfonts-->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-    <style>
-        #banner {
-            background: url("../frontend/images/banner-images/banner-image-2.webp") no-repeat center top;
-            background-size: cover;
-        }
-    </style>
 </head>
 
 <body>

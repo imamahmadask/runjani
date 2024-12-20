@@ -124,38 +124,36 @@
 
     <!--Content Section-->
     <div id="services" class="scrollto clearfix">
-
         <div class="row no-padding-bottom clearfix">
-
-
             <!--Content Left Side-->
             <div class="col-3">
                 <!--User Testimonial-->
                 <blockquote class="testimonial text-right bigtest">
-                    <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                        ut
-                        labore
-                        et dolore magna aliqua</q>
-                    <footer>— John Doe, Happy Customer</footer>
+                    <q>
+                        A running community serves as a platform to invite and gather people, helping them to better
+                        understand and appreciate the sport of running.
+                        We want you to not only run but also grow and make a positive impact on those around you.
+                    </q>
+                    <footer>— Imam Ahmad, Captain</footer>
                 </blockquote>
                 <!-- End of Testimonial-->
-
             </div>
             <!--End Content Left Side-->
 
             <!--Content of the Right Side-->
             <div class="col-3">
                 <div class="section-heading">
-                    <h3>BELIEVING</h3>
+                    <h3>Just run, but not only run</h3>
                     <h2 class="section-title">Focusing On What Matters Most</h2>
-                    <p class="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
+                    <p class="section-subtitle">
+                        Lari sejatinya adalah olahraga yang mudah. Tapi bagi sebagian orang justru dibikin susah.
+                        Lari seharusnya menyenangkan bagi semua orang karena selain mendatangkan manfaat bagi
+                        diri sendiri, juga harus bermanfaat bagi orang lain.
+
+                    </p>
                 </div>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                    laudantium,
-                    totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
-                    vitae
-                    dicta sunt explicabo.
+                <p>
+
                 </p>
                 <p>
                     Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
@@ -174,16 +172,12 @@
             </div>
 
         </div>
-
-
     </div>
     <!--End of Content Section-->
 
     <!--Testimonials-->
     <aside id="testimonials" class="scrollto text-center" data-enllax-ratio=".2">
-
         <div class="row clearfix">
-
             <div class="section-heading">
                 <h3>FEEDBACK</h3>
                 <h2 class="section-title">What our customers are saying</h2>
@@ -218,18 +212,14 @@
                 <footer>Thomas Doe - Happy Customer</footer>
             </blockquote>
             <!-- End of Testimonial-->
-
         </div>
-
     </aside>
     <!--End of Testimonials-->
 
     <!--Clients-->
     <section id="clients" class="scrollto clearfix">
         <div class="row clearfix">
-
             <div class="col-3">
-
                 <div class="section-heading">
                     <h3>TRUST</h3>
                     <h2 class="section-title">Companies who use our services</h2>
@@ -237,11 +227,9 @@
                         eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
                 </div>
-
             </div>
 
             <div class="col-2-3">
-
                 <a href="#" class="col-3">
                     <img src="{{ asset('frontend/images/company-images/company-logo1.png') }}" alt="Company" />
                     <div class="client-overlay"><span>Tree</span></div>
@@ -274,14 +262,11 @@
                     <img src="{{ asset('frontend/images/company-images/company-logo8.png') }}" alt="Company" />
                     <div class="client-overlay"><span>Cold</span></div>
                 </a>
-
                 <a href="#" class="col-3">
                     <img src="{{ asset('frontend/images/company-images/company-logo9.png') }}" alt="Company" />
                     <div class="client-overlay"><span>Cold</span></div>
                 </a>
-
             </div>
-
         </div>
     </section>
     <!--End of Clients-->
@@ -289,7 +274,6 @@
     <!--Pricing Tables-->
     <section id="pricing" class="secondary-color text-center scrollto clearfix ">
         <div class="row clearfix">
-
             <div class="section-heading">
                 <h3>YOUR CHOICE</h3>
                 <h2 class="section-title">We have the right package for you</h2>
