@@ -146,19 +146,23 @@
                     <h3>Just run, but not only run</h3>
                     <h2 class="section-title">Focusing On What Matters Most</h2>
                     <p class="section-subtitle">
-                        Lari sejatinya adalah olahraga yang mudah. Tapi bagi sebagian orang justru dibikin susah.
-                        Lari seharusnya menyenangkan bagi semua orang karena selain mendatangkan manfaat bagi
-                        diri sendiri, juga harus bermanfaat bagi orang lain.
-
+                        Running is a simple and enjoyable activity that doesn’t require complicated rules or equipment. It
+                        should be a source of joy and relaxation, not something stressful or overwhelming. By focusing on
+                        the fun aspect, running becomes an activity that anyone can enjoy, regardless of their skill level
+                        or experience.
                     </p>
                 </div>
                 <p>
-
+                    Running isn’t just about physical exercise; it’s also a way to radiate positivity. Whether it’s through
+                    the energy and motivation you exude during a run or the inspiration you provide to others, running can
+                    uplift not only yourself but also the people in your community. It’s a ripple effect of positivity that
+                    starts with one step and spreads far beyond.
                 </p>
                 <p>
-                    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-                    consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
-                    Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!
+                    Being part of a running community provides an opportunity to meet people who share similar interests.
+                    These gatherings often lead to meaningful friendships and connections that extend beyond running.
+                    Sharing stories, goals, and achievements during group runs creates a sense of camaraderie and belonging,
+                    enriching both your social life and your running journey.
                 </p>
                 <!-- Just replace the Video ID "UYJ5IjBRlW8" with the ID of your video on YouTube (Found within the URL) -->
                 <a href="#" data-videoid="UYJ5IjBRlW8" data-videosite="youtube" class="button video link-lightbox">
